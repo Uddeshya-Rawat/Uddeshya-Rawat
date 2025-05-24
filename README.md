@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Hi, I'm Uddeshya Rawat — a 💻 MERN Stack Developer passionate about building cool, user-friendly web apps.<br>🚀 Love working with React, Node.js, and MongoDB.<br>🎯 Always learning, always coding!
+👋 Hi, I'm Uddeshya Rawat — a 💻 MERN Stack Developer passionate about building cool, user-friendly web apps.<br>🚀 Love working with React, Node.js, and MongoDB.<br>🎯 Always learning, always coding!<br>
+<br>
+<img src="luffy.gif" width="300"/>
+
 
 
 ## 🌐 Socials:
